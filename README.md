@@ -10,7 +10,7 @@ Superhero Matchmaker is a modern interactive web application that analyzes user 
 
 The project focuses on **user experience, visual interaction, and performance optimization**, delivering a polished product under hackathon constraints.
 
-👉 Live Demo: https://serene-cheesecake-18f9f2.netlify.app/
+👉 Live Demo: https://superhero-matchmaker.netlify.app/
 
 ---
 
@@ -88,7 +88,7 @@ This project was developed during a hackathon with the goal of:
 
 ## 👨‍💻 Author
 
-**Cris Fung (Tom)**  
+**Cris Fung**  
 GitHub: https://github.com/dukmank  
 Email: phungducmanh18072005@gmail.com
 
