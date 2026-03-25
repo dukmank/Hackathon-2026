@@ -1,49 +1,97 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
+  <h1>🦸 Superhero Matchmaker</h1>
+  <p><i>Interactive personality-based superhero matching web app</i></p>
 </p>
-<h1 align="center">
-  Gatsby Minimal Starter
-</h1>
 
-## 🚀 Quick start
+---
 
-1.  **Create a Gatsby site.**
+## 🚀 Overview
+Superhero Matchmaker is a modern interactive web application that analyzes user personality traits and matches them with the most compatible superhero.
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+The project focuses on **user experience, visual interaction, and performance optimization**, delivering a polished product under hackathon constraints.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+👉 Live Demo: https://serene-cheesecake-18f9f2.netlify.app/
 
-2.  **Start developing.**
+---
 
-    Navigate into your new site’s directory and start it up.
+## ✨ Key Features
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+### 🧠 Intelligent Matching System
+- Multi-dimensional personality scoring
+- Real-time compatibility calculation
+- Best match & worst match analysis
 
-3.  **Open the code and start customizing!**
+### 🎨 Advanced UI / UX
+- Animated starfield background (Canvas API)
+- Warp transition from landing → quiz
+- Glassmorphism design system
+- Smooth transitions and micro-interactions
 
-    Your site is now running at http://localhost:8000!
+### 📊 Insightful Results
+- Top 1 best match with explanation
+- Worst match for contrast insights
+- Top 3 comparison with visual bars
+- Personality breakdown dashboard
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+### 💾 Interactive Experience
+- Save favorite heroes
+- Hero profile modal
+- Dynamic fun facts generation
 
-4.  **Learn more**
+---
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## 🛠️ Tech Stack
 
-## 🚀 Quick start (Netlify)
+- **Frontend:** React (Gatsby)
+- **Styling:** Custom CSS (Glassmorphism + animations)
+- **Animation:** Canvas API
+- **State Management:** React Hooks
+- **Deployment:** Netlify
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+---
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+## ⚡ Performance Optimization
+
+- Reduced canvas rendering cost
+- Removed expensive shadow effects
+- Optimized animation loops
+- Prevented unnecessary re-renders
+
+---
+
+## 🧠 Engineering Highlights
+
+- Designed custom animation engine (starfield + warp origin)
+- Built scalable component-based architecture
+- Balanced UI complexity with runtime performance
+- Focused on UX clarity and interaction flow
+
+---
+
+## 🏁 Project Context
+
+This project was developed during a hackathon with the goal of:
+- Rapid prototyping
+- Delivering high-quality UI/UX
+- Demonstrating frontend engineering capability
+
+---
+
+## 📌 Future Improvements
+
+- AI-powered personality analysis
+- Backend integration (user accounts & history)
+- Mobile-first optimization
+- WebGL-based rendering for enhanced performance
+
+---
+
+## 👨‍💻 Author
+
+**Cris Fung (Tom)**  
+GitHub: https://github.com/dukmank  
+Email: phungducmanh18072005@gmail.com
+
+---
+
+⭐ If you find this project interesting, feel free to star the repository!
